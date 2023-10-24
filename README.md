@@ -9,7 +9,7 @@
 ### 2. 迭代器
 * (1)型别萃取特性：迭代器型别萃取(li_iterator.h)和类型型别萃取(li_type_traits.h)
 ### 3. 容器
-* (1)vector容器(li_vector.hpp)：
+* (1)vector容器(li_vector.hpp)：  
 &emsp;1.1) 连续内存的分配机制  
 &emsp;1.2) 增删导致的内存重分配
 * (2)deque容器(li_deque.hpp):  
